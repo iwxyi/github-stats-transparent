@@ -50,7 +50,7 @@ anyone may be able to see the name of one or more private repositories.
    <img src='https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/Exclude.png' height='250px'/>
 
 6. If you want to ignore certain languages, add them (separated by commas) to a new secret called 
-   `EXCLUDED_LANGS`.
+   `EXCLUDE_LANGS`.
 
 7. By default the languages, stars, forks and repository views do not consider stats from 
    public repositories that you have forked and contributed to. But if you want to count stats from
